@@ -1,0 +1,1 @@
+return "\n [Slot] \n \n +1 Hive Slot \n"

@@ -1,0 +1,1 @@
+return "She is still very small, but gives good Bonuses to beginners \n\n [Mask] \n +5% White Pollen \n +25% Convert Rate \n"

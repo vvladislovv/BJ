@@ -1,0 +1,2 @@
+
+return "\n Combine all colors in it \n\n [Backpack] \n +1.500.000 Capacity \n +500% Convertion Rate \n x1.5 Pollen \n x1.15 Blue Pollen \n x1.15 Red Pollen \n +200% White Pollen \n +150% Red Pollen \n +150% Blue Pollen \n"

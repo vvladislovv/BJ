@@ -1,0 +1,1 @@
+return "The Bee Queen constantly eating Honey... \n\n +25% Pollen \n +150% Caramel \n +5% Instant Conversion \n +10% White Instant Conversion \n +100% Capacity \n x2 Convert Rate \n x2 White Pollen \n +Passive: Caramel Chaos \n"

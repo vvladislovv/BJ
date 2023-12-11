@@ -1,0 +1,1 @@
+return "\n [Guard] \n\n Gold-plated Red Guard \n\n +25,000 Capacity \n x1.25 Red Pollen \n"

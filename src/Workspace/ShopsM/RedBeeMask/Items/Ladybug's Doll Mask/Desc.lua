@@ -1,0 +1,1 @@
+return "Red Long - Moustache \n\n x1.75 Red Pollen \n +25% Pollen \n +35% Tools Speed \n +25% Red Instant Conversion \n x0.5 Capacity \n x1.75 Convert Rate \n x1.25 Pollen From Flames \n +5 Bee's Attack \n"

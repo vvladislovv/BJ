@@ -1,0 +1,1 @@
+return "Mask of an adult bee. good hard worker \n\n [Mask] \n x1.75 White Pollen \n +50% White Pollen \n +15% Instant White Conversion \n +200% Convert Rate \n"

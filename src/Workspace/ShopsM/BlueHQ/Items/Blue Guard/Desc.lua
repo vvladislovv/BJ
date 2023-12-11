@@ -1,0 +1,1 @@
+return "\n [Guard] \n\n Blue Guard \n\n +7,500 Capacity \n x1.05 Blue Pollen \n"

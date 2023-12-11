@@ -1,0 +1,1 @@
+return "Such a baby.. she's so Cute \n\n [Mask] \n +10% Pollen \n +5% Instant White Conversion \n +50% Convert Rate \n"
